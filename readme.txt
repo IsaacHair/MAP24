@@ -25,3 +25,21 @@ Comments are inside "\" and "\".
 No blank lines.
 Each "\" and "\" to begin/end comment must be on a seperate line.
 Use "\" then newline then "\" if you want to space out the code.
+
+updated mais for map 24.3:
+join
+jain
+joram
+jaram
+joreg
+jareg
+out0
+out1
+addr0
+addr1
+dir0
+dir1
+reg0
+reg1
+immram
+regram
